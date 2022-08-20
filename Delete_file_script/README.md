@@ -1,4 +1,4 @@
-# [Delete file-Python script](https://github.com/sthsuyash/Delete-file-Script/blob/main/deleteScript.py)
+# [Delete file-Python script](https://github.com/sthsuyash/Python_mini_projects/blob/main/Delete_file_script/deleteScript.py)
 ## For Windows
 
 Executable app '.exe' is inside [dist](https://github.com/sthsuyash/Delete-file-Script/tree/main/dist) directory
@@ -18,7 +18,6 @@ The program:
 ```
 Used pyinstaller to create .exe file
 ```
-<br/><br/>
 
 - Add python to Path
 - Install the Pyinstaller package
