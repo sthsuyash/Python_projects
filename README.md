@@ -2,8 +2,8 @@
 
 This repository contains some of the mini-projects built using python for practising and showing my skills in python programming language.
 
-| S.N. | Programs                |
-| ---- | ----------------------- |
-| 1    | Delete File Script      |
-| 2    | Generate Random Devices |
-| 3    | Rock Paper Scissors     |
+## Programs
+
+- [Delete File Script](https://github.com/sthsuyash/Python_mini_projects/tree/main/Delete_file_script)
+- [Generate Random Devices](https://github.com/sthsuyash/Python_mini_projects/tree/main/Random_device_generator)
+- [Rock Paper Scissors](https://github.com/sthsuyash/Python_mini_projects/tree/main/Rock_paper_scissors)
