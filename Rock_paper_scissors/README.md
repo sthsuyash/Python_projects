@@ -1,4 +1,4 @@
-# Basic CMD Rock-Paper-Scissors Game using python
+# [Basic CMD Rock-Paper-Scissors Game using python](https://github.com/sthsuyash/Python_mini_projects/blob/main/Rock_paper_scissors/Rock_Paper_Scissors.py)
 
   Game Description:
   
