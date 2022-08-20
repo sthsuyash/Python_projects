@@ -1,4 +1,4 @@
-# Random Device Generator
+# [Random Device Generator](https://github.com/sthsuyash/Python_mini_projects/blob/main/Random_device_generator/devices.py)
 
 ## Description
 
