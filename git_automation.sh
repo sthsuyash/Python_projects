@@ -2,8 +2,11 @@
 
 #!/bin/bash
 
-git add $1
+for program in "$@"; do
+    # echo $program
+    git add $program
+done
 
-git commit -m "$2"
-
+read -p "Enter commit message: " message
+git commit -m "$message"
 git push
