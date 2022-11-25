@@ -6,31 +6,37 @@ This is a simple interactive English dictionary that uses the data stored in a J
 
 The dictionary is able to handle:
 
-* Capitalized words
-* Words with multiple meanings
-* Nouns
-* Verbs
-* Adjectives
-* Adverbs
+- Capitalized words
+- Words with multiple meanings
+- Nouns
+- Verbs
+- Adjectives
+- Adverbs
 
-## Installation
+## Run the program
 
 1. Clone the repository
 
-     ```bash
-     git clone https://github.com/sthsuyash/Python_mini_projects.git
-     ```
+   ```bash
+   git clone https://github.com/sthsuyash/Python_mini_projects.git
+   ```
 
 2. Change into the directory
 
    ```bash
-   cd Python_mini_projects/interactive-english-dictionary
+   cd Python_mini_projects/Interactive_English_dictionary
    ```
 
 3. Run the program
 
-   ```python
+   ```bash
    python3 dictionary.py
+   ```
+
+   or
+
+   ```pwsh
+   python dictionary.py
    ```
 
 OR
