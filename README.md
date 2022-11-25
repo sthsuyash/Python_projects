@@ -16,7 +16,10 @@ _This repository contains some of the mini-projects built using python for pract
 
 <details><summary>190 Python Projects</summary>
 
-- [Number Guessing Game](/190_Python_projects/1_Number_guessing_game.py) -[Group Anagrams](/190_Python_projects/2_Group_Anagrams.py) -[Find Missing Number](/190_Python_projects/3_Find_missing_number.py) -[Group Elements of Same Indices](/190_Python_projects/4_Group_elements_of_same_indeces.py)
+- [Number Guessing Game](/190_Python_projects/1_Number_guessing_game.py)
+- [Group Anagrams](/190_Python_projects/2_Group_Anagrams.py)
+- [Find Missing Number](/190_Python_projects/3_Find_missing_number.py)
+- [Group Elements of Same Indices](/190_Python_projects/4_Group_elements_of_same_indeces.py)
 
 </details>
 
