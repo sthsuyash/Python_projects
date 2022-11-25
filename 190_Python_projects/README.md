@@ -101,7 +101,7 @@ _This directory contains Python practice projects that I have created while lear
 95. [ ] [Python Projects for Resume](/)
 96. [ ] [Python Project Ideas for Final Year](/)
 
-    ### Advance Python Projects
+### Advance Python Projects
 
 97. [] [Netflix Recommendation System](/)
 98. [] [Time Series Graph using Python](/)
