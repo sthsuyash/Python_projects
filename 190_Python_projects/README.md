@@ -1,44 +1,102 @@
 # 190 Python Projects
 
-This repository contains Python practice projects that I have created while learning Python.
+_This directory contains Python practice projects that I have created while learning Python._
 
 ## Projects
 
-1. [x] [Number Guessing Game](/190_Python_projects/1_Number_guessing_game.py)
-2. [x] [Group Anagrams](/190_Python_projects/2_Group_Anagrams.py)
-3. [x] [Find Missing Number](/190_Python_projects/3_Find_missing_number.py)
-4. [x] [Group Elements of Same Indices](/190_Python_projects/4_Group_elements_of_same_indeces.py)
-
-## Run any project
-
-1. Clone the repository
-
-   ```git
-   git clone
-   ```
-
-2. Change into the directory
-
-   ```bash
-   cd 190_Python_projects
-   ```
-
-3. Run the program
-
-   ```bash
-   python3 <file_name>.py
-   ```
-
-   or
-
-   ```pwsh
-   python <file_name>.py
-   ```
-
-   OR
-
-   copy the code and run it in your IDE
-
-## Author
-
-Suyash Shrestha
+1. [x] [Number Guessing Game](1_Number_guessing_game.py)
+2. [x] [Group Anagrams](2_Group_Anagrams.py)
+3. [x] [Find Missing Number](3_Find_missing_number.py)
+4. [x] [Group Elements of Same Indices](4_Group_elements_of_same_indeces.py)
+5. [ ] [Calculate Mean, Median, and Mode using Python](/)
+6. [ ] [Calculate Execution Time of a Python Program](/)
+7. [ ] [Count Number of words in a Column](/)
+8. [ ] [Rock Paper Scissors Game using Python](/)
+9. [ ] [Print Emojis using Python](/)
+10. [ ] [Correct Spellings using Python](/)
+11. [ ] [Scraping Github Profile using Python](/)
+12. [ ] [Visualize Linear Relationships using Python](/)
+13. [ ] [Generate Text using Python](/)
+14. [ ] [Scrape Table From a Website using Python](/)
+15. [ ] [Extract Text From PDF using Python](/)
+16. [ ] [Reversing a String using Python](/)
+17. [ ] [Match Sequences using Python](/)
+18. [ ] [QR Code using Python](/)
+19. [ ] [Decode a QR Code using Python](/)
+20. [ ] [Creating Dummy Data using Python](/)
+21. [ ] [Remove Cuss Words using Python](/)
+22. [ ] [Find Duplicate Values using Python](/)
+23. [ ] [Detect Questions using Python](/)
+24. [ ] [Voice Recorder using Python](/)
+25. [ ] [Reading and Writing CSV Files using Python](/)
+26. [ ] [Box Plot using Python](/)
+27. [ ] [Send Instagram Messages using Python](/)
+28. [ ] [Age Calculator using Python](/)
+29. [ ] [LCM using Python](/)
+30. [ ] [Price Elasticity of Demand using Python](/)
+31. [ ] [Find the Most Frequent Words in a File](/)
+32. [ ] [Find the Number of Capital Letters in a File](/)
+33. [ ] [Index of Maximum Value in a Python List](/)
+34. [ ] [Index of Minimum Value in a Python List](/)
+35. [ ] [Voice Recorder using Python](/)
+36. [ ] [Send Instagram Messages using Python](/)
+37. [ ] [Animated Scatter Plot](/)
+38. [ ] [Create Font Art using Python](/)
+39. [ ] [Collage Maker with Python](/)
+40. [ ] [Get Phone Number Details using Python](/)
+41. [ ] [Display a Calendar using Python](/)
+42. [ ] [Internet Speed Test using Python](/)
+43. [ ] [Text to Handwriting with Python](/)
+44. [ ] [Shutdown Computer using Python](/)
+45. [ ] [Send Automatic Emails using Python](/)
+46. [ ] [Defang IP Address](/)
+47. [ ] [Password Authentication using Python](/)
+48. [ ] [Web Scraping to create a dataset](/)
+49. [ ] [Resume Scanner](/)
+50. [ ] [Merge Sort Algorithm](/)
+51. [ ] [Pick a Random card using Python](/)
+52. [ ] [Quartile Deviation using Python](/)
+53. [ ] [Count Character Occurrences](/)
+54. [ ] [Pyramid Pattern using Python](/)
+55. [ ] [Sequential Search](/)
+56. [ ] [Swap Variables using Python](/)
+57. [ ] [Sorting NumPy Arrays](/)
+58. [ ] [Validate Anagrams](/)
+59. [ ] [Create Tables with Python](/)
+60. [ ] [Recursive Binary Search](/)
+61. [ ] [Backward For Loop](/)
+62. [ ] [Dijkstra’s Algorithm using Python](/)
+63. [ ] [Hash Tables using Python](/)
+64. [ ] [Queues using Python](/)
+65. [ ] [Validate a Binary Search Tree](/)
+66. [ ] [Stacks using Python](/)
+67. [ ] [Check Palindrome Words](/)
+68. [ ] [Breadth-First Search Algorithm](/)
+69. [ ] [Plot Annotations](/)
+70. [ ] [Real-Time Currency Converter](/)
+71. [ ] [FizzBuzz Algorithm](/)
+72. [ ] [Extract Keywords with Python](/)
+73. [ ] [Read Data From Google Sheets with Python](/)
+74. [ ] [Invoice Generator with Python](/)
+75. [ ] [Text-Based Adventure Game](/)
+76. [ ] [Mad Libs Game with Python](/)
+77. [ ] [Create Acronyms using Python](/)
+78. [ ] [Alarm Clock with Python](/)
+79. [ ] [Email Slicer with Python](/)
+80. [ ] [Story Generator with Python](/)
+81. [ ] [Generate Password with Python](/)
+82. [ ] [Play Rock, Paper, and Scissors with Python](/)
+83. [ ] [Dice Roll Simulator](/)
+84. [ ] [QR Code Generator](/)
+85. [ ] [Animal Quiz Game](/)
+86. [ ] [Print Coloured Text](/)
+87. [ ] [BMI Calculator](/)
+88. [ ] [Fahrenheit to Celcius Converter](/)
+89. [ ] [Taking Multiple User Inputs](/)
+90. [ ] [Convert Roman Numbers to Decimals](/)
+91. [ ] [Pearson Correlation](/)
+92. [ ] [Treemap using Python](/)
+93. [ ] [Convert Image to an array](/)
+94. [ ] [Scrape IMDb with Python](/)
+95. [ ] [Python Projects for Resume](/)
+96. [ ] [Python Project Ideas for Final Year](/)
