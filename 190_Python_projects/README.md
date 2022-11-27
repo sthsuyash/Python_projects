@@ -8,7 +8,7 @@ _This directory contains Python practice projects that I have created while lear
 2. [x] [Group Anagrams](2_Group_Anagrams.py)
 3. [x] [Find Missing Number](3_Find_missing_number.py)
 4. [x] [Group Elements of Same Indices](4_Group_elements_of_same_indeces.py)
-5. [ ] [Calculate Mean, Median, and Mode using Python](/)
+5. [x] [Calculate Mean, Median, and Mode using Python](5_Calculate_Mean_Median_Mode.py)
 6. [ ] [Calculate Execution Time of a Python Program](/)
 7. [ ] [Count Number of words in a Column](/)
 8. [ ] [Rock Paper Scissors Game using Python](/)
