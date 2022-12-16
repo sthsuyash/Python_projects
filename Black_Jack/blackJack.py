@@ -1,6 +1,4 @@
-from msilib.schema import Error
 import random
-from re import T
 
 
 class Card:
@@ -30,7 +28,7 @@ class Deck:
             {"rank": "10", "value": 10},
             {"rank": "J", "value": 10},
             {"rank": "Q", "value": 10},
-            {"rank": "K", "value": 10}
+            {"rank": "K", "value": 10},
         ]
 
         for suit in suits:
@@ -66,10 +64,10 @@ class Hand:
         has_ace = False
 
         for card in self.cards:
-            card_value = int(card.rank['value'])
+            card_value = int(card.rank["value"])
             self.value += card_value
 
-            if card.rank['rank'] == "A":
+            if card.rank["rank"] == "A":
                 has_ace = True
 
         if has_ace and self.value > 21:
@@ -83,18 +81,20 @@ class Hand:
         return self.get_value() == 21
 
     def display(self, show_all_dealer_cards=False):
-        print(f'''{"Dealer's" if self.dealer else "Your"} hand: ''')
+        print(f"""{"Dealer's" if self.dealer else "Your"} hand: """)
         for index, card in enumerate(self.cards):
-            if index == 0\
-                    and self.dealer\
-                    and not show_all_dealer_cards\
-                    and not self.is_blackJack():
+            if (
+                index == 0
+                and self.dealer
+                and not show_all_dealer_cards
+                and not self.is_blackJack()
+            ):
                 print("Hidden")
             else:
                 print(card)
 
         if not self.dealer:
-            print(f'Value: {self.get_value()}')
+            print(f"Value: {self.get_value()}")
         print()
 
 
@@ -105,8 +105,7 @@ class Game:
 
         while games_to_play <= 0:
             try:
-                games_to_play = int(
-                    input(f"How many games do you want to play? "))
+                games_to_play = int(input(f"How many games do you want to play? "))
             except ValueError:
                 print("Please enter a number.")
 
@@ -135,17 +134,17 @@ class Game:
 
             choice = ""
 
-            while player_hand.get_value() < 21 and choice not in ['s']:
-                choice = input(
-                    f"Please choose 'h' to hit or 's' to stand: ").lower()
+            while player_hand.get_value() < 21 and choice not in ["s"]:
+                choice = input(f"Please choose 'h' to hit or 's' to stand: ").lower()
                 print()
 
-                while choice not in ['h', 's']:
+                while choice not in ["h", "s"]:
                     choice = input(
-                        f"Please choose 'h' to hit or 's' to stand: ").lower()
+                        f"Please choose 'h' to hit or 's' to stand: "
+                    ).lower()
                     print()
 
-                if choice == 'h':
+                if choice == "h":
                     player_hand.add_card(deck.deal(1))
                     player_hand.display()
 
