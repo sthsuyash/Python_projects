@@ -50,5 +50,7 @@ pprint(devices)
 # use "Tabulate" to print table of devices
 print("\n-----------------SORTED DEVICES IN TABULAR FORMAT--------------------\n")
 
-print(tabulate(sorted(devices, key=itemgetter("Vendor", "OS", "Version")), headers="keys"))
+print(
+    tabulate(sorted(devices, key=itemgetter("Vendor", "OS", "Version")), headers="keys")
+)
 print("\n")
