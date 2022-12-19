@@ -11,6 +11,7 @@ _This repository contains some of the mini-projects built using python for pract
 - [Random Device Generator](/Random_devices)
 - [Rock Paper Scissors Game](/Rock_paper_scissors)
 - [Sentence Maker](/Sentence_Maker)
+- [List Commands](/List_commands)
 - [Random Password Generator](/Random_Password_Generator)
 </details>
 
