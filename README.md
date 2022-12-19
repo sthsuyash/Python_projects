@@ -12,6 +12,7 @@ _This repository contains some of the mini-projects built using python for pract
 - [Rock Paper Scissors Game](/Rock_paper_scissors)
 - [Sentence Maker](/Sentence_Maker)
 - [List Commands](/List_commands)
+- [Second Largest Number](/Second_largest_number)
 - [Random Password Generator](/Random_Password_Generator)
 </details>
 
