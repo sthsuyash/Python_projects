@@ -20,7 +20,7 @@ _This directory contains Python practice projects that I have created while lear
 14. [ ] [Scrape Table From a Website using Python](/)
 15. [ ] [Extract Text From PDF using Python](/)
 16. [ ] [Reversing a String using Python](/)
-17. [ ] [Match Sequences using Python]()
+17. [ ] [Match Sequences using Python](/)
 18. [ ] [QR Code using Python](/)
 19. [ ] [Decode a QR Code using Python](/)
 20. [ ] [Creating Dummy Data using Python](/)
