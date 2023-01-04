@@ -22,7 +22,7 @@ _This directory contains Python practice projects that I have created while lear
 16. [ ] [Reversing a String using Python](/)
 17. [ ] [Match Sequences using Python](/)
 18. [ ] [QR Code using Python](/)
-19. [ ] [Decode a QR Code using Python]()
+19. [ ] [Decode a QR Code using Python](/)
 20. [ ] [Creating Dummy Data using Python](/)
 21. [ ] [Remove Cuss Words using Python](/)
 22. [ ] [Find Duplicate Values using Python](/)
