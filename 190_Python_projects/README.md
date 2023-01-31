@@ -12,7 +12,7 @@ _This directory contains Python practice projects that I have created while lear
 6. [x] [Calculate Execution Time of a Python Program](6_Execution_Time_of_program.py)
 7. [x] [Count Number of words in a Column](7_Count_no_of_words_in_column.py)
 8. [x] [Rock Paper Scissors Game using Python](../Rock_paper_scissors/rockPaperScissors.py)
-9. [ ] [Print Emojis using Python](/)
+9. [x] [Print Emojis using Python](9_Print_emojis.py)
 10. [ ] [Correct Spellings using Python](/)
 11. [ ] [Scraping Github Profile using Python](/)
 12. [ ] [Visualize Linear Relationships using Python](/)
