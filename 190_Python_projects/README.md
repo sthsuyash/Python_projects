@@ -13,7 +13,7 @@ _This directory contains Python practice projects that I have created while lear
 7. [x] [Count Number of words in a Column](7_Count_no_of_words_in_column.py)
 8. [x] [Rock Paper Scissors Game using Python](../Rock_paper_scissors/rockPaperScissors.py)
 9. [x] [Print Emojis using Python](9_Print_emojis.py)
-10. [ ] [Correct Spellings using Python](/)
+10. [x] [Correct Spellings using Python](10_Correct_spellings.py)
 11. [ ] [Scraping Github Profile using Python](/)
 12. [ ] [Visualize Linear Relationships using Python](/)
 13. [ ] [Generate Text using Python](/)
