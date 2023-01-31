@@ -14,6 +14,7 @@ _This repository contains some of the mini-projects built using python for pract
 - [List Commands](/List_commands)
 - [Second Largest Number](/Second_largest_number)
 - [Random Password Generator](/Random_Password_Generator)
+
 </details>
 
 <details><summary>190 Python Projects</summary>
@@ -22,6 +23,11 @@ _This repository contains some of the mini-projects built using python for pract
 - [Group Anagrams](/190_Python_projects/2_Group_Anagrams.py)
 - [Find Missing Number](/190_Python_projects/3_Find_missing_number.py)
 - [Group Elements of Same Indices](/190_Python_projects/4_Group_elements_of_same_indeces.py)
+- [Calculate Mean, Median, and Mode using Python](/190_Python_projects/5_Calculate_Mean_Median_Mode.py)
+- [Calculate Execution Time of a Python Program](/190_Python_projects/6_Execution_Time_of_program.py)
+- [Count Number of words in a Column](/190_Python_projects/7_Count_no_of_words_in_column.py)
+- [Print Emojis using Python](/190_Python_projects/9_Print_emojis.py)
+- [Correct Spellings using Python](/190_Python_projects/10_Correct_spellings.py)
 
 </details>
 
