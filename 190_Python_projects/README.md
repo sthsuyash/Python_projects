@@ -15,7 +15,7 @@ _This directory contains Python practice projects that I have created while lear
 9. [x] [Print Emojis using Python](9_Print_emojis.py)
 10. [x] [Correct Spellings using Python](10_Correct_spellings.py)
 11. [x] [Scraping Github Profile using Python](11_Scrape_github_profile.py)
-12. [ ] [Visualize Linear Relationships using Python](/)
+12. [x] [Visualize Linear Relationships using Python](12_Visualize_linear_reln.py)
 13. [ ] [Generate Text using Python](/)
 14. [ ] [Scrape Table From a Website using Python](/)
 15. [ ] [Extract Text From PDF using Python](/)
